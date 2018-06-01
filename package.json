@@ -1,5 +1,5 @@
 {
-  "name": "rangeslider-videojs",
+  "name": "@pivotshare/rangeslider-videojs",
   "version": "2.0.0",
   "description": "RangeSlider plugin for VideoJS(5.x)",
   "main": "Gruntfile.js",
@@ -23,9 +23,9 @@
   "dependencies": {
     "grunt": "latest",
     "grunt-contrib-qunit": "latest",
-    "grunt-contrib-uglify": "latest", 
-    "grunt-contrib-jshint": "latest", 
-    "grunt-contrib-watch": "latest", 
-    "grunt-contrib-concat": "latest" 
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-concat": "latest"
   }
 }
